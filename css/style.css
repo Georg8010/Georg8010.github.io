@@ -1,0 +1,19 @@
+#menu {
+    font-family: balooTamma, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: right;
+}
+@font-face {
+    font-family: "balooTamma";
+    src: url("fonts/Baloo_Tamma_2/BalooTamma2-Medium.ttf");
+    font-weight: normal;
+}
+td{
+    padding: 5px;
+}
+th {
+    padding: 5px;
+}
+.text{
+    color: red;
+}
